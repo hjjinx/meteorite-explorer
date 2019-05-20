@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "918bb33148959f05fea095654edbd8dd",
+    "revision": "d5b33587e6d49f8dd39683a533c9b905",
     "url": "/meteorite-explorer/index.html"
   },
   {
-    "revision": "89cef442e974613e6929",
+    "revision": "e5c1b77456ae49af3274",
     "url": "/meteorite-explorer/static/css/main.4624189e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/meteorite-explorer/static/js/2.61ebbd48.chunk.js"
   },
   {
-    "revision": "89cef442e974613e6929",
-    "url": "/meteorite-explorer/static/js/main.469c0cf0.chunk.js"
+    "revision": "e5c1b77456ae49af3274",
+    "url": "/meteorite-explorer/static/js/main.7016a79b.chunk.js"
   },
   {
     "revision": "c602ff4126988d3b7f26",
