@@ -38,8 +38,13 @@ class App extends React.Component {
     this.setState({ page: e.target.value - 1 });
   };
   search = async e => {
-    if (this.state.loading) return;
     e.preventDefault();
+    if (this.state.loading) return;
+    if (this.state.searchQuery.match(/[#\\"]/)) {
+      // Apparently, searching NASA for such a query that matches this RegEx gives an error
+      this.setState({ results: [], searchQuery: "" });
+      return;
+    }
     await this.setState({ loading: true }, () => {
       this.forceUpdate();
       fetch(
