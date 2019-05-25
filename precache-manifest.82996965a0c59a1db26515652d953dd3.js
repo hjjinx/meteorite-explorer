@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0bb8763f022d2591a0b0cf5ff9b42902",
+    "revision": "d24ef01b1578fef3cd1855e220cfcf90",
     "url": "/meteorite-explorer/index.html"
   },
   {
