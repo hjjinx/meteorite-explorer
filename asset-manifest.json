@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/meteorite-explorer/static/css/main.88a4f994.chunk.css",
-    "main.js": "/meteorite-explorer/static/js/main.524bdf70.chunk.js",
-    "main.js.map": "/meteorite-explorer/static/js/main.524bdf70.chunk.js.map",
+    "main.js": "/meteorite-explorer/static/js/main.95352f9f.chunk.js",
+    "main.js.map": "/meteorite-explorer/static/js/main.95352f9f.chunk.js.map",
     "runtime~main.js": "/meteorite-explorer/static/js/runtime~main.c9db95ac.js",
     "runtime~main.js.map": "/meteorite-explorer/static/js/runtime~main.c9db95ac.js.map",
     "static/js/2.e7c24e45.chunk.js": "/meteorite-explorer/static/js/2.e7c24e45.chunk.js",
     "static/js/2.e7c24e45.chunk.js.map": "/meteorite-explorer/static/js/2.e7c24e45.chunk.js.map",
     "index.html": "/meteorite-explorer/index.html",
-    "precache-manifest.82996965a0c59a1db26515652d953dd3.js": "/meteorite-explorer/precache-manifest.82996965a0c59a1db26515652d953dd3.js",
+    "precache-manifest.21734e39cbe242a13a76eb1d6efe4f96.js": "/meteorite-explorer/precache-manifest.21734e39cbe242a13a76eb1d6efe4f96.js",
     "service-worker.js": "/meteorite-explorer/service-worker.js",
     "static/css/main.88a4f994.chunk.css.map": "/meteorite-explorer/static/css/main.88a4f994.chunk.css.map"
   }
